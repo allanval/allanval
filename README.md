@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @allanval
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bloomsmerlin@proton.me
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning
+- 📫 How to reach me allanvalentineai@gmail.com
 
 <!---
 allanval/allanval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
